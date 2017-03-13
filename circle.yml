@@ -1,1 +1,5 @@
+test:
+Override:
+- php ./app/run-server.php
 
+-php ./test-suite/run.php
