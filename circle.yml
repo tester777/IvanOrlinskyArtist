@@ -1,5 +1,5 @@
 test:
-Override:
-- php ./app/run-server.php
+override:
+- php ./test-suite/run.php --unit-tests
 
--php ./test-suite/run.php
+
